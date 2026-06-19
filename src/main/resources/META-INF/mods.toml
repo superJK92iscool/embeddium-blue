@@ -4,10 +4,10 @@ license="LGPL-3.0-only"
 [[mods]]
 modId="embeddium"
 version="${file.jarVersion}"
-displayName="Embeddium"
+displayName="Embeddium Blue"
 logoFile="icon.png"
 description='''
-Embeddium is a fork of Rubidium, a fork of Sodium with patches for Forge
+Embeddium Blue is a fork of Rubidium, a fork of Sodium with patches for Forge
 '''
 credits="embeddedt, NanoLive, CaffeineMC"
 authors="embeddedt"
@@ -15,7 +15,7 @@ authors="embeddedt"
 [[mods]]
 modId = "rubidium"
 version = "0.7.1"
-displayName = "Rubidium (Embeddium)"
+displayName = "Rubidium (Embeddium Blue)"
 description = '''
 Stub, to allow mods detecting Rubidium to function as expected.
 '''
