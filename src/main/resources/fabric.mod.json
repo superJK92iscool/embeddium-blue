@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "embeddium",
   "version": "${version}",
-  "name": "Embeddium",
-  "description": "Embeddium",
+  "name": "Embeddium Blue",
+  "description": "Embeddium Blue",
   "authors": [ "embeddedt" ],
   "contributors": [
     "@jellysquid3",
