@@ -8,10 +8,10 @@ config="embeddium.mixins.json"
 [[mods]]
 modId="embeddium"
 version="${version}"
-displayName="Embeddium"
+displayName="Embeddium Blue"
 logoFile="icon.png"
 description='''
-Embeddium is a performance mod for Minecraft based on the last open-source version of Sodium
+Embeddium Blue is a performance mod for Minecraft based on the last open-source version of Sodium
 '''
 credits="embeddedt, NanoLive, CaffeineMC"
 authors="embeddedt"
@@ -27,7 +27,7 @@ side = "CLIENT"
 [[dependencies.embeddium]] #optional
 modId = "sodium" #mandatory
 type = "incompatible" #mandatory
-reason="Embeddium cannot be used if Sodium is present. If you want to use Embeddium you will have to remove Sodium."
+reason="Embeddium Blue cannot be used if Sodium is present. If you want to use Embeddium you will have to remove Sodium."
 versionRange = "[0,)" #mandatory
 ordering = "NONE"
 side = "CLIENT"
